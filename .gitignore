@@ -1,10 +1,229 @@
-.idea
-config.py
-virtualenv
-.env
-venv/
-ENV/
-*.csv
-*.txt
-*.lst
-data_output
+<html>
+<head>
+	<style>
+		 .title{
+            font-size: 45px;
+            color: blue;
+            text-align: center;
+        }
+         .data{
+            font-size:25px;
+            color: blue;
+            text-align:left;
+        }
+        .hr{
+            color:springgreen;
+            font-size: 24;
+        }
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 10px 10px 10px  ghostwhite;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+      
+      
+    </style>
+	<Title>
+		welcome to Tyrese blogs
+		</Title>
+		<body margin="10%" bgcolor="white" Link="Magenta" Alink="Gold" Vlink="skysblue"></body>
+		<h1 class= "title">
+		SUPER CAR TYRESE</h1>
+		<center><h2><i>A solo male vehicle enthusiast blog featuring cars around the world</i></h2></center>
+
+<HR size="5" color="black"></HR><Marquee behavior="alternate"  class="hr">  Welcome to <i>super car tyrese blog</i></Marquee>
+
+<a href="#BUGATTI">BUGATTI</a>|<a href="#LAMBORGHINI">LAMBORGHINI</a>|<a href="tyresebigman@gmail.com">CONTACT info</a>
+
+
+
+<h2 class="data">Portfolio</h2>
+<ol type="1">
+	<table  border="4" width="75%" cellspacing="2" cellpadding="4" >
+		<tr><th colspan="2">PERSONALITY INFORMATION</th></td>
+			<tr><th rowspan="8"><img src="Tyrese.jpg" width="250" length="120" alt="Tyrese peter"></th><th>DETAILS</th></tr>
+			<tr><td><li><p>	Birthdate:5/08/2001</p></td></tr>
+				<tr><td><li><p>Education:Zetech universtity(currently)</B></p></td></tr>
+					<tr><td><li><p>High school:kangaru school</B></p></td></tr>
+						<tr><td><li><p>ethnicity:kikuyu</B></p></td></tr>
+							<tr><td><li><p>Citizenship:American</B></p></td></tr>
+								<tr><td><li><p>Religion:Christian</B></p></td></tr>
+									<tr><td><li><p>Career:Software designe</B></p></td></tr></ol>
+		</table>
+
+
+
+<p>I love cars so much, i guess its because i have been raised in a family that treasures cars.That has made me have a passion for cars and am a car enthusiast as for now
+	<p> i will be show casing various cars in this segment like common super cars ie<B> @BUGGATI @LAMBOGINI @MC LAREN @MERCEDECS @BENTLY @SUBARU </B>and many more....
+
+
+
+		
+    <div id="tribute-data">
+		<figure>
+	<figurecaption><H2 CLASS="data">AUDIO DESCRIPTION</H2></figurecaption>
+	<audio controls src="Tyrese official audio.M4A"></audio>
+</figure>
+</div>
+
+
+<a name="BUGATTI"><h2 class="data"><B>BUGATTI</B></h2>
+<P><B>BUGATTI CHIRON</B>
+	<ul type="circle">
+	<li><p>TYPE:Bugatti 18/3 chiron
+	<li><p>Designer:Fabrizio giugiaro
+	<li><P>Fuel consumption: 1/100km
+    <li><p>WLTP:CO2 emissons,combined 25.190
+    <li><P>Speed:500km/h</P>
+    	</ul>
+
+    <image>
+	<img src="Buggati1.jpg" width="300" length="120">
+	<img src="Buggati2.jpg" width="300" length="120">
+	<img src="Buggati3.jpg" width="300" length="120">
+</image>
+<p><B>ABOUT</B>
+	<p>Automobiles are German theb French manufactures of high -performance automobiles.The company was founded in 1909 in the then German city of Molsheim,alsace,by the italian-born indusrial designer.
+	<p> The car were known fpr their design beauty and for their many race victories.</p>
+
+
+	<a name="LAMBORGHINI"><h2 class="data">LAMBORGHINI</h2>
+	<P><B>LAMBORGHINI HURRACANE</B></P>
+	<ul type="circle">
+	<li><p>TYPE:Spiky hexagonal
+	<li><p>Designer:tom sparkin
+	<li><P>Fuel consumption: 1/100km
+    <li><p>WLTP:CO2 emissons,combined 338-328 g/km
+    <li><P>Speed:500km/h</P>
+    </ul>
+
+<image>
+    <img src="lamborghini1.jpeg" width="300" length="120">
+	<img src="lamborghini2.jpg" width="300" length="120">
+	<img src="lamborghini3.jpg" width="300" length="120">
+	<img src="Lamborghini-Huracan-Performante-Spyder-0.jpg" width="300" length="120">
+	</image>
+
+
+	<P><H2 CLASS="data"> BENTLY</H2>
+		<P><b>FLYING SPUR</b></P>
+		<ul type="circle">
+	<li><p>TYPE:PRIVATE LIMITED 
+	<li><p>Designer:VOLKSWAGEN GROUP
+	<li><P>6.0 LITRE W12 petro enggine
+    <li><p>WLTP:CO2 emissons,combined 338-328 g/km
+    <li><P>Speed:207mph</P>
+    </ul>
+    <images>
+    	<img src="bentley1.jpg" width="300" length="120">
+    	<img src="bentley2.jpg" width="300" length="120">
+    	<img src="bentley3.jpg" width="300" length="120">
+    	<img src="bentley4.jpg" width="300" length="120">
+    	<img src="bentley5.jpg" width="300" length="120">
+    	<img src="bentley6.jpg" width="300" length="120">
+	
+</images>
+
+
+    <p><b>ABOUT</b></p>
+    <P>BENTLY has been building cars for over a century explore our ranges,the new bentayga EWB,flying spur,continental GTC.
+
+    	<p><h2 class="data">MERCEDES-BENZ</h2>
+    		<P><B>MERCEDES-BENZ G CLASS</B>
+    	<ul type="circle">
+	<li><p>TYPE:subsidiary
+	<li><p>Designer:Emil jellinek,Paul daimler,kark benz
+	<li><P>Fuel consuption:7.71/100km
+    <li><p>Engine type:2000cc
+    <li><P>Speed:240km/ph</P>
+    </ul>
+
+      <images>
+    	<img src="mercedes (1).jpg" width="300" length="120">
+    	<img src="mercedes (2).jpg" width="300" length="120">
+    	<img src="mercedes (3).jpg" width="300" length="120">
+    	<img src="mercedes (4).jpg" width="300" length="120">
+    	<img src="mercedes (12).jpg" width="300" length="120">
+    	<img src="mercedes (14).jpg" width="300" length="120">
+    </images>
+    <p><b>ABOUT</b>
+    	<P>MERCEDES-BENZ commonly  reffered to as <b>MERCEDES</b> and sometimes <b>BENZ</b> is a german luxry and commercial vehocle automotive brand established in 1926.
+    		<p>Mercedes-benz was the largest brand pf premium vehicles in the world,having sold 2.31 millon passanger cars.
+
+
+
+    			<P><H2 class="data">BAYERISCHE MOTORREN WERKE AG</H2>
+                <p><B> BMW SERIES</B>
+    				<ul type="circle">
+	<li><p>TYPE:public 
+	<li><p>Designer:camilo castiglioni
+	<li><P>6.0 LITRE W12 petro enggine
+    <li><p>Performance:
+    <li><P>Speed:250mkph</P>
+    </ul>
+
+     <images>
+    	<img src="BMW (2).jpg" width="300" length="120">
+    	<img src="BMW (3).jpg" width="300" length="120">
+    	<img src="BMW (4).jpg" width="300" length="120">
+    	<img src="BMW (5).jpg" width="300" length="120">
+    	<img src="BMW (8).jpg" width="300" length="120">
+    	<img src="BMW (9).jpg" width="300" length="120">
+    </images>
+
+
+                      <P><B>ABOUT</B>
+    					<P>BAYERISCHE MOTORREN WERKE AG <B>BMW</B>is a german multinational manufacterer of performnance luxury cars and motocycles headed in <u>Munich</u>,<u>Bavaria</u> in Germany
+    						<p>The cororation was founded in 1916 as nanufacturer of aircraft engines and in 1928 they produced their first car called BMW 3/15.
+    							<P>ON 18<SUP>TH</SUP> BMW announced a new limited edition <B>M7160Li xDRIVE</B> simply called "THE FINAL V12".
+
+
+    			<figure>
+    				<figurecaption><h2 class="data">THE EVOLUTION OF BMW</h2></figurecaption>
+    				<P><b>From 1972-2020</b>
+    					<iframe src="BENZ OFFICAL VEDIO.MP4" length="700" height="400" width="400" frameborder="0" controls="controls"></iframe>
+    				</figure>
+
+
+    				<p><h2 class="data">DORGE</h2>
+    					<P><B>DODGE CHALLANGER</B>
+    						<ul type="circle">
+	<li><p>TYPE:private(1900 -28),division(1928-present)
+	<li><p>Designer:John francis Dodge,Horace elgin Dodge
+	<li><P>Fuel consuption:7.7l?100km
+    <li><p>Perfomance:285 HP,383 ib-ft
+    <li><P>Speed:203mph</P>
+    </ul>
+
+     <images>
+     	<img src="dobge (1).jpg" width="300" length="120">
+     	<img src="dobge (3).jpg" width="300" length="120">
+    	<img src="dobge (15).jpg" width="300" length="120">
+    	<img src="dobge (17).jpg" width="300" length="120">
+    	<img src="dobge (18).jpg" width="300" length="120">
+    	<img src="dobge (20).jpg" width="300" length="120">
+    </images>
+
+<p><B>ABOUT</B>
+	<P>Dodge ia an American brand pf automobiles and division of stellantis, based in AUBURN HILLS,MICHIGAN.
+		<p>Dobge vehicles have historically included in performance cras, for ,uch its existence Dodge was chrysler's mid-priced brand above plymouth.
+
+
+
+
+ <div id="tribute-data">
+	<CENTER><p> copyright @ 2022| ASMART.KE -ALL RIGHT RESERVED. For more information,
+        check out <b>@WHATSAPP</b>  <U>0775848170</U></p></CENTER>
+
+<P align = "right">Date: 17<sup>th</sup> Oct 2022
+
+
+<A href="#Top"> Top</A>
+</div>
+
+</BODY>
+
+</HTML>
